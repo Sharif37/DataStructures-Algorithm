@@ -6,7 +6,7 @@ int main()
 int i ;
 for( int i=0 ;i<100 ;i++)
 {
-    printf("%.10 lf \n",rand()/9999.0) ;
+    printf("floating point number: %.10 lf \n",rand()/9999.0) ;
 }
 
 
