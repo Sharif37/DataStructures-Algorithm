@@ -25,7 +25,7 @@ int main()
 
 ### automatic link 
 
-`https://github.com/Sharif37/DataStructures-Algorithm`
+`https://github.com/Sharif37/DataStructures-Algorithm `
 
 
 ### markdown link syntax
