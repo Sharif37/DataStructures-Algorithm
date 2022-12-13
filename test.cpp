@@ -50,8 +50,8 @@ while(t--)
        ans+=(n/help(l)) ;
    }
 
-    cout<<ans<<endl ;
+    cout<<ans-1<<endl ;
 }
 
 
-}
+
